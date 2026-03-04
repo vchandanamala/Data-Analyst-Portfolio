@@ -1,8 +1,8 @@
 # 📊 Data Analyst Portfolio – V Chandana Mala
 
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
+![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning%20%26%20Analysis-green)
 ![SQL](https://img.shields.io/badge/SQL-Queries-blue)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Matplotlib-yellow)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange)
 
 Welcome to my **Data Analyst Portfolio**.  
