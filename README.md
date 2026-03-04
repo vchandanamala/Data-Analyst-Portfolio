@@ -1,18 +1,67 @@
 # 📊 Data Analyst Portfolio – V Chandana Mala
 
 Welcome to my **Data Analyst Portfolio**.  
-This repository contains my end-to-end projects built using **SQL, Excel, and Power BI**, along with my certifications.
+This repository showcases my Data Analysis projects developed using Excel, SQL, Python, and Power BI.
+These projects demonstrate my ability to clean, analyze, and visualize data to generate meaningful business insights.
+The portfolio includes Practice projects, Internship projects, and Certifications that highlight my skills in data analytics, reporting, and dashboard development.
 
 ---
 
 ## 🚀 About Me
-Aspiring **Data Analyst** with hands-on experience in  
-**SQL, Excel, Power BI, DAX, dashboards, data cleaning & reporting**.  
-This portfolio showcases my practical projects and analytical skills.
+Aspiring **Data Analyst** with hands-on experience in data analysis, visualization, and business reporting.
+I have worked on multiple projects involving data cleaning, SQL querying, dashboard development, and analytical reporting using Excel, Python, and Power BI.
+Through these Projects and my Internship experience, I have developed practical skills in transforming raw data into actionable insights.
 
 ---
 
 ## 📁 Projects Included
+
+## 🎓 Unified Mentor Internship Projects
+
+### 🔹 E-commerce Sales Analysis
+Tools: Excel
+
+- Sales trend analysis
+- Product category performance
+- Revenue and profit insights
+- Data cleaning and summary using Excel
+- Pivot tables and charts for business insights
+
+ ---
+  
+### 🔹 IBM HR Employee Attrition Analysis
+Tools: Excel, SQL, Power BI
+
+- Employee attrition trend analysis
+- Department and demographic insights
+- SQL queries for HR data extraction
+- KPI dashboards in Power BI
+- Data-driven HR insights
+
+---
+
+### 🔹 Netflix Data Analysis
+Tools: Excel, Python (Pandas, Matplotlib)
+
+- Data cleaning and preprocessing
+- Movie vs TV show distribution analysis
+- Genre and release trend analysis
+- Visualization using Python (Pandas & Matplotlib)
+- Insights on Netflix content growth
+
+---
+
+  ### 🔹 Supermart Sales Analysis
+Tools: Excel, Power BI
+
+- Sales and profit analysis
+- Regional performance insights
+- Product category analysis
+- Interactive Power BI dashboard
+
+---
+
+## 📘 Practice Projects
 
 ### 🔹 HR Analytics
 **Tools:** Excel, SQL, Power BI  
@@ -54,12 +103,13 @@ This portfolio showcases my practical projects and analytical skills.
 
 ## 🛠 Skills
 - **SQL:** Joins, Aggregations, Subqueries, Window Functions  
-- **Excel:** Pivot Tables, VLOOKUP, Data Cleaning, Functions  
-- **Power BI:** DAX, Data Modeling, Power Query, Dashboards  
+- **Excel:** Pivot Tables, VLOOKUP, Data Cleaning, Advanced Functions  
+- **Power BI:** DAX, Data Modeling, Power Query, Interactive Dashboards  
+- **Python:** Pandas, Matplotlib  
 - **Data Visualization & Reporting**
 
 ---
 
 ## 📬 Contact
 **Email:** chandanamala3677@gmail.com
-**Location:** India  
+**Location:** Andhra Pradesh, India  
