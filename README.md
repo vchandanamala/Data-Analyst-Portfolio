@@ -1,5 +1,10 @@
 # 📊 Data Analyst Portfolio – V Chandana Mala
 
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
+![SQL](https://img.shields.io/badge/SQL-Queries-blue)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Matplotlib-yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange)
+
 Welcome to my **Data Analyst Portfolio**.  
 This repository showcases my Data Analysis projects developed using Excel, SQL, Python, and Power BI.
 These projects demonstrate my ability to clean, analyze, and visualize data to generate meaningful business insights.
