@@ -22,17 +22,6 @@ Through these Projects and my Internship experience, I have developed practical 
 ## 📁 Projects Included
 
 ## 🎓 Unified Mentor Internship Projects
-
-### 🔹 E-commerce Sales Analysis
-Tools: Excel
-
-- Sales trend analysis
-- Product category performance
-- Revenue and profit insights
-- Data cleaning and summary using Excel
-- Pivot tables and charts for business insights
-
- ---
   
 ### 🔹 IBM HR Employee Attrition Analysis
 Tools: Excel, SQL, Power BI
@@ -65,6 +54,16 @@ Tools: Excel, Power BI
 - Interactive Power BI dashboard
 
 ---
+### 🔹 E-commerce Sales Analysis
+Tools: Excel
+
+- Sales trend analysis
+- Product category performance
+- Revenue and profit insights
+- Data cleaning and summary using Excel
+- Pivot tables and charts for business insights
+
+ ---
 
 ## 📘 Practice Projects
 
