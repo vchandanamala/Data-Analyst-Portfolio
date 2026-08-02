@@ -99,6 +99,9 @@ Tools: Excel
 ---
 
 ## 🎓 Certificates
+- **Unified Mentor Internship Certificate**
+- **Unified Mentor Letter of Recommendation (LOR)**
+- **Unified Mentor Project Evaluation Report**
 - **Discover Data Analysis – Microsoft**  
 - **SQL – Simplilearn (Microsoft Powered)**  
 - **Power BI – Simplilearn (Microsoft Powered)**  
