@@ -64,6 +64,18 @@ Tools: Excel
 - Pivot tables and charts for business insights
 
  ---
+ 
+ ## 🚀 Self-Driven Projects
+
+### 🔹 Amazon Prime Video Content Analysis
+
+**Tools:** Excel, Power Query, Power BI, DAX
+
+* Analyzed **9,668 titles** across content type, genre, country, rating, and release-year trends.
+* Built an interactive **Power BI dashboard** with data cleaning, transformation, DAX measures, and visual analysis.
+
+---
+
 
 ## 📘 Practice Projects
 
